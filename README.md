@@ -10,7 +10,9 @@ The libraries that need to be imported in order to successfully reproduce this n
 
 ## Data
 
-Data Source: Startup Investments (Justinas Cirtautas) - Kaggle (https://www.kaggle.com/justinas/startup-investments)
+Data Source: Startup Investments (Justinas Cirtautas) - Kaggle (https://www.kaggle.com/justinas/startup-investments).
+
+There are two more `.csv` files contained in the initial dataset:  `objects.csv` and `relationships.csv`. Due to their file size, it was not possible to upload them in this repository, therefore you need to download the whole dataset from the link above if you wish to access them.
 
 ## Code reproduction
 
