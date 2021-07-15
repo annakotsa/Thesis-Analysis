@@ -14,6 +14,12 @@ Data Source: Startup Investments (Justinas Cirtautas) - Kaggle (https://www.kagg
 
 ## How to run the code
 
+In order to reproduce the notebook, you need to have installed the Anaconda platform so as to have access to the Anaconda command Prompt. 
+You can access the Thesis Analysis notebook by opening Jupyter Notebook from Anaconda Prompt.
+
+## Authors
+
+* **Anna Kotsa** - *Initial work* - [Annakotsa](https://github.com/annakotsa)
 
 
 
