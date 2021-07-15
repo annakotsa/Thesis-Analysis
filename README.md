@@ -12,7 +12,7 @@ The libraries that need to be imported in order to successfully reproduce this n
 
 Data Source: Startup Investments (Justinas Cirtautas) - Kaggle (https://www.kaggle.com/justinas/startup-investments)
 
-## How to run the code
+## Code reproduction
 
 In order to reproduce the notebook, you need to have installed the Anaconda platform so as to have access to the Anaconda command Prompt. 
 You can access the Thesis Analysis notebook by opening Jupyter Notebook from Anaconda Prompt.
